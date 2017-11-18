@@ -1,5 +1,25 @@
 # Deep Learning in Healthcare and Computational Biology
 
+## NOTE/ANNOUNCEMENT to what we intend to do here!
+
+---------------------------
+All this stuff is borrowed from the github, I will soon reorganize this to reflect recency (as a lot of work is happening in comp biology that CNNs are using lately -- hopefully CapsNETs too) and some easy to undrstand structure.
+
+Key collaborators and researchers (besides me) will be some budding computational biologists such as [Huadong Liao](https://github.com/naturomics) who did an awesome job with recent Capsule Networks and will work with me to not only do awesome projects across the globe but also work and travel with me to deliver workshops for both for and non-profit organizations.
+
+So stay tuned!!!
+
+Thanks,
+
+Tarry Singh
+
+---------------------------
+
+This is a list of implementations of deep learning methods to biology, originally published on [Follow the Data](https://followthedata.wordpress.com/). There is a slant towards genomics because that's the subfield that I follow most closely.
+
+Please, contribute to this growing list, especially in categories that I haven't covered well! Also, do add your contributions to [GitXiv](http://gitxiv.com/) as well if you can.
+
+You might also want to refer to the [curaterd list of deepbio work](#awesome-deep-biology) below.
 * Data driven decision making
 * Questions -> Data -> Models/Tools
 
@@ -96,7 +116,7 @@ This is a list of implementations of deep learning methods to biology, originall
 
 Please, contribute to this growing list, especially in categories that I haven't covered well! Also, do add your contributions to [GitXiv](http://gitxiv.com/) as well if you can.
 
-You might also want to refer to the [awesome deepbio](https://github.com/gokceneraslan/awesome-deepbio) list.
+You might also want to refer to the [curaterd list of deepbio work](#awesome-deep-biology) below.
 
 ## Table of contents
 * [Reviews](#reviews)
@@ -286,9 +306,7 @@ There are potentially lots of implementations that could go here.
 
 ## Awesome Deep Biology
 
-# Awesome DeepBio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/gokceneraslan/awesome-deepbio)
-
-A curated list of awesome deep learning applications in the field of computational biology
+A curated list of deep learning applications in the field of computational biology
 
 
 - **2012-07** | Deep architectures for protein contact map prediction | *Pietro Di Lena, Ken Nagata and Pierre Baldi* [Bioinformatics](https://doi.org/10.1093/bioinformatics/bts475)
