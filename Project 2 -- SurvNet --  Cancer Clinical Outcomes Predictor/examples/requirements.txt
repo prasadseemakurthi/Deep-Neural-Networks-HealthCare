@@ -1,0 +1,8 @@
+scipy==0.18.0
+setuptools==34.0.2
+numpy==1.12.0
+statsmodels==0.8.0
+matplotlib==1.4.3
+lifelines==0.8.0.0
+Theano==0.8.2
+bayesopt==0.3
