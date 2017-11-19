@@ -1,0 +1,73 @@
+ID   6PGL_ECOLC              Reviewed;         331 AA.
+AC   B1IXL9;
+DT   20-MAY-2008, integrated into UniProtKB/Swiss-Prot.
+DT   29-APR-2008, sequence version 1.
+DT   05-JUL-2017, entry version 55.
+DE   RecName: Full=6-phosphogluconolactonase {ECO:0000255|HAMAP-Rule:MF_01605};
+DE            Short=6-P-gluconolactonase {ECO:0000255|HAMAP-Rule:MF_01605};
+DE            EC=3.1.1.31 {ECO:0000255|HAMAP-Rule:MF_01605};
+GN   Name=pgl {ECO:0000255|HAMAP-Rule:MF_01605};
+GN   OrderedLocusNames=EcolC_2895;
+OS   Escherichia coli (strain ATCC 8739 / DSM 1576 / Crooks).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=481805;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 8739 / DSM 1576 / Crooks;
+RA   Copeland A., Lucas S., Lapidus A., Glavina del Rio T., Dalin E.,
+RA   Tice H., Bruce D., Goodwin L., Pitluck S., Kiss H., Brettin T.,
+RA   Detter J.C., Han C., Kuske C.R., Schmutz J., Larimer F., Land M.,
+RA   Hauser L., Kyrpides N., Mikhailova N., Ingram L., Richardson P.;
+RT   "Complete sequence of Escherichia coli C str. ATCC 8739.";
+RL   Submitted (FEB-2008) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Catalyzes the hydrolysis of 6-phosphogluconolactone to
+CC       6-phosphogluconate. {ECO:0000255|HAMAP-Rule:MF_01605}.
+CC   -!- CATALYTIC ACTIVITY: 6-phospho-D-glucono-1,5-lactone + H(2)O = 6-
+CC       phospho-D-gluconate. {ECO:0000255|HAMAP-Rule:MF_01605}.
+CC   -!- PATHWAY: Carbohydrate degradation; pentose phosphate pathway; D-
+CC       ribulose 5-phosphate from D-glucose 6-phosphate (oxidative stage):
+CC       step 2/3. {ECO:0000255|HAMAP-Rule:MF_01605}.
+CC   -!- SIMILARITY: Belongs to the cycloisomerase 2 family.
+CC       {ECO:0000255|HAMAP-Rule:MF_01605}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000946; ACA78522.1; -; Genomic_DNA.
+DR   RefSeq; WP_000815435.1; NC_010468.1.
+DR   ProteinModelPortal; B1IXL9; -.
+DR   SMR; B1IXL9; -.
+DR   EnsemblBacteria; ACA78522; ACA78522; EcolC_2895.
+DR   KEGG; ecl:EcolC_2895; -.
+DR   eggNOG; ENOG4105HHQ; Bacteria.
+DR   eggNOG; COG2706; LUCA.
+DR   HOGENOM; HOG000257418; -.
+DR   KO; K07404; -.
+DR   OMA; TANYHKG; -.
+DR   UniPathway; UPA00115; UER00409.
+DR   GO; GO:0017057; F:6-phosphogluconolactonase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006006; P:glucose metabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0006098; P:pentose-phosphate shunt; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.130.10.10; -; 1.
+DR   HAMAP; MF_01605; 6P_gluconolactonase; 1.
+DR   InterPro; IPR022528; 6-phosphogluconolactonase_YbhE.
+DR   InterPro; IPR019405; Lactonase_7-beta_prop.
+DR   InterPro; IPR011045; N2O_reductase_N.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like_dom.
+DR   Pfam; PF10282; Lactonase; 1.
+DR   SUPFAM; SSF50974; SSF50974; 1.
+PE   3: Inferred from homology;
+KW   Acetylation; Carbohydrate metabolism; Glucose metabolism; Hydrolase.
+FT   CHAIN         1    331       6-phosphogluconolactonase.
+FT                                /FTId=PRO_1000088029.
+FT   MOD_RES     287    287       N6-acetyllysine. {ECO:0000255|HAMAP-
+FT                                Rule:MF_01605}.
+SQ   SEQUENCE   331 AA;  36308 MW;  D731044CFCF31A8F CRC64;
+     MKQTVYIASP ESQQIHVWNL NHEGALTLTQ VVDVPGQVQP MVVSPDKRYL YVGVRPEFRV
+     LAYRIAPDDG ALTFAAESAL PGSPTHISTD HQGQFVFVGS YNAGNVSVTR LEDGLPVGVV
+     DVVEGLDGCH SANISPDNRT LWVPALKQDR ICLFTVSDDG HLVAQDPAEV TTVEGAGPRH
+     MVFHPNEQYA YCVNELNSSV DVWELKDPHG NIECVQTLDM MPENFSDTRW AADIHITPDG
+     RHLYACDRTA SLITVFSVSE DGSVLSKEGF QPTETQPRGF NVDHSGKYLI AAGQKSHHIS
+     VYEIVGEQGL LHEKGRYAVG QGPMWVVVNA H
+//

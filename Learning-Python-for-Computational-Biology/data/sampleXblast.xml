@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastx</BlastOutput_program>
+  <BlastOutput_version>BLASTX 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>../db/swissprot</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>sample X</BlastOutput_query-def>
+  <BlastOutput_query-len>257</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>1e-15</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>L;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>sample X</Iteration_query-def>
+  <Iteration_query-len>257</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|114816|sp|P04252.1|BAHG_VITST</Hit_id>
+  <Hit_def>RecName: Full=Bacterial hemoglobin; AltName: Full=Soluble cytochrome O</Hit_def>
+  <Hit_accession>P04252</Hit_accession>
+  <Hit_len>146</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.5893</Hsp_bit-score>
+      <Hsp_score>231</Hsp_score>
+      <Hsp_evalue>1.06452e-34</Hsp_evalue>
+      <Hsp_query-from>123</Hsp_query-from>
+      <Hsp_query-to>257</Hsp_query-to>
+      <Hsp_hit-from>90</Hsp_hit-from>
+      <Hsp_hit-to>134</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>VAAAHYPIVGQELLGAIKEVLGDAATDDILDAWGKAYGVIADVFI</Hsp_qseq>
+      <Hsp_hseq>VAAAHYPIVGQELLGAIKEVLGDAATDDILDAWGKAYGVIADVFI</Hsp_hseq>
+      <Hsp_midline>VAAAHYPIVGQELLGAIKEVLGDAATDDILDAWGKAYGVIADVFI</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>72.7886</Hsp_bit-score>
+      <Hsp_score>177</Hsp_score>
+      <Hsp_evalue>1.06452e-34</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>109</Hsp_query-to>
+      <Hsp_hit-from>54</Hsp_hit-from>
+      <Hsp_hit-to>89</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>36</Hsp_align-len>
+      <Hsp_qseq>PKALAMTVLAAAQNIENLPAILPAVKKIAVKHCQAG</Hsp_qseq>
+      <Hsp_hseq>PKALAMTVLAAAQNIENLPAILPAVKKIAVKHCQAG</Hsp_hseq>
+      <Hsp_midline>PKALAMTVLAAAQNIENLPAILPAVKKIAVKHCQAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|52000645|sp|Q9RC40.1|HMP_BACHD</Hit_id>
+  <Hit_def>RecName: Full=Flavohemoprotein; AltName: Full=Flavohemoglobin; AltName: Full=Hemoglobin-like protein; AltName: Full=Nitric oxide dioxygenase; Short=NO oxygenase; Short=NOD</Hit_def>
+  <Hit_accession>Q9RC40</Hit_accession>
+  <Hit_len>411</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>66.2402</Hsp_bit-score>
+      <Hsp_score>160</Hsp_score>
+      <Hsp_evalue>2.4824e-17</Hsp_evalue>
+      <Hsp_query-from>123</Hsp_query-from>
+      <Hsp_query-to>257</Hsp_query-to>
+      <Hsp_hit-from>94</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>VAAAHYPIVGQELLGAIKEVLGDAATDDILDAWGKAYGVIADVFI</Hsp_qseq>
+      <Hsp_hseq>IKPEQYPIVGENLLAAMREVLGDAASDDVLEAWREAYELIADVFI</Hsp_hseq>
+      <Hsp_midline>+    YPIVG+ LL A++EVLGDAA+DD+L+AW +AY +IADVFI</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>41.5874</Hsp_bit-score>
+      <Hsp_score>96</Hsp_score>
+      <Hsp_evalue>2.4824e-17</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>97</Hsp_query-to>
+      <Hsp_hit-from>58</Hsp_hit-from>
+      <Hsp_hit-to>89</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>26</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>32</Hsp_align-len>
+      <Hsp_qseq>PKALAMTVLAAAQNIENLPAILPAVKKIAVKH</Hsp_qseq>
+      <Hsp_hseq>PQALANSIYAAAEHIDNLEAILPVVSRIAHKH</Hsp_hseq>
+      <Hsp_midline>P+ALA ++ AAA++I+NL AILP V +IA KH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|52000637|sp|Q8ETH0.1|HMP_OCEIH</Hit_id>
+  <Hit_def>RecName: Full=Flavohemoprotein; AltName: Full=Flavohemoglobin; AltName: Full=Hemoglobin-like protein; AltName: Full=Nitric oxide dioxygenase; Short=NO oxygenase; Short=NOD</Hit_def>
+  <Hit_accession>Q8ETH0</Hit_accession>
+  <Hit_len>406</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>66.6254</Hsp_bit-score>
+      <Hsp_score>161</Hsp_score>
+      <Hsp_evalue>1.0505e-16</Hsp_evalue>
+      <Hsp_query-from>123</Hsp_query-from>
+      <Hsp_query-to>257</Hsp_query-to>
+      <Hsp_hit-from>96</Hsp_hit-from>
+      <Hsp_hit-to>140</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>VAAAHYPIVGQELLGAIKEVLGDAATDDILDAWGKAYGVIADVFI</Hsp_qseq>
+      <Hsp_hseq>IKPEQYPIVGKYLLIAIKEVLGDAATDEIIEAWEKAYFVIADIFI</Hsp_hseq>
+      <Hsp_midline>+    YPIVG+ LL AIKEVLGDAATD+I++AW KAY VIAD+FI</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>39.2762</Hsp_bit-score>
+      <Hsp_score>90</Hsp_score>
+      <Hsp_evalue>1.0505e-16</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>97</Hsp_query-to>
+      <Hsp_hit-from>61</Hsp_hit-from>
+      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>KALAMTVLAAAQNIENLPAILPAVKKIAVKH</Hsp_qseq>
+      <Hsp_hseq>KALANTVYAAAANIEKLEEILPHVKQIAHKH</Hsp_hseq>
+      <Hsp_midline>KALA TV AAA NIE L  ILP VK+IA KH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>466658</Statistics_db-num>
+      <Statistics_db-len>175602800</Statistics_db-len>
+      <Statistics_hsp-len>56</Statistics_hsp-len>
+      <Statistics_eff-space>4334628608</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://uniprot.org/uniprot
+ http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2000-10-01" version="35">
+  <accession>Q9JJE1</accession>
+  <organism key="1">
+    <name type="scientific">Mus musculus</name>
+    <lineage>
+      <taxon>Eukaryota</taxon>
+      <taxon>Metazoa</taxon>
+      <taxon>Chordata</taxon>
+      <taxon>Craniata</taxon>
+      <taxon>Vertebrata</taxon>
+      <taxon>Euteleostomi</taxon>
+      <taxon>Mammalia</taxon>
+      <taxon>Eutheria</taxon>
+      <taxon>Euarchontoglires</taxon>
+      <taxon>Glires</taxon>
+      <taxon>Rodentia</taxon>
+      <taxon>Sciurognathi</taxon>
+      <taxon>Muroidea</taxon>
+      <taxon>Muridae</taxon>
+      <taxon>Murinae</taxon>
+      <taxon>Mus</taxon>
+    </lineage>
+  </organism>
+  <dbReference type="UniGene" id="Mm.248907" key="5"/>
+  <sequence length="393" checksum="E0C0CC2E1F189B8A">
+MPKKKPTPIQLNPAPDGSAVNGTSSAETNLEALQKKLEELELDEQQRKRL
+EAFLTQKQKVGELKDDDFEKISELGAGNGGVVFKVSHKPSGLVMARKLIH
+LEIKPAIRNQIIRELQVLHECNSPYIVGFYGAFYSDGEISICMEHMDGGS
+LDQVLKKAGRIPEQILGKVSIAVIKGLTYLREKHKIMHRDVKPSNILVNS
+RGEIKLCDFGVSGQLIDSMANSFVGTRSYMSPERLQGTHYSVQSDIWSMG
+LSLVEMAVGRYPIPPPDAKELELLFGCHVEGDAAETPPRPRTPGGPLSSY
+GMDSRPPMAIFELLDYIVNEPPPKLPSGVFSLEFQDFVNKCLIKNPAERA
+DLKQLMVHAFIKRSDAEEVDFAGWLCSTIGLNQPSTPTHAASI
+</sequence>
+</entry>
+</uniprot>

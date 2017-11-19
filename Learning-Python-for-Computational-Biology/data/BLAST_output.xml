@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>GP/9606.9558/RefSeq_protein</BlastOutput_db>
+  <BlastOutput_query-ID>Query_16172</BlastOutput_query-ID>
+  <BlastOutput_query-def>gi|129295|sp|P01013|OVAX_CHICK GENE X PROTEIN (OVALBUMIN-RELATED)</BlastOutput_query-def>
+  <BlastOutput_query-len>228</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>1</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>R -d repeatmasker/repeat_9606;F;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_16172</Iteration_query-ID>
+  <Iteration_query-def>gi|129295|sp|P01013|OVAX_CHICK GENE X PROTEIN (OVALBUMIN-RELATED)</Iteration_query-def>
+  <Iteration_query-len>228</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|767940201|ref|XP_011512980.1|</Hit_id>
+  <Hit_def>PREDICTED: serpin B9 isoform X2 [Homo sapiens] &gt;gi|1034650527|ref|XP_016866431.1| PREDICTED: serpin B9 isoform X2 [Homo sapiens] &gt;gi|1034650529|ref|XP_016866432.1| PREDICTED: serpin B9 isoform X2 [Homo sapiens]</Hit_def>
+  <Hit_accession>XP_011512980</Hit_accession>
+  <Hit_len>325</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>190.66</Hsp_bit-score>
+      <Hsp_score>483</Hsp_score>
+      <Hsp_evalue>3.89424e-59</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>228</Hsp_query-to>
+      <Hsp_hit-from>92</Hsp_hit-from>
+      <Hsp_hit-to>325</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>151</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>QIKDLLVSSSTDLDTTLVLVNAIYFKGMWKTAFNAEDTREMPFHVTKQESKPVQMMCMNNSFNVATLPAEKMKILELPFASGD------LPDEVSDLERIEKTINFKKLKLTEWTNPNTMEKRRVKVYLPQMKIEEKYNLTSVLMALGMTDLFIPS-ANLTGISSAESLKISQAVHGAFMELSEDGIEMAGSTGVIEDIKHSPESE-QFRADHPFLFLIKHNPTNTIVYFGRYWSP</Hsp_qseq>
+      <Hsp_hseq>KIEELLPGSSIDAETRLVLVNAIYFKGKWNEPFDETYTREMPFKINQEEQRPVQMMYQEATFKLAHVGEVRAQLLELPYARKELSLLVLLPDDGVELSTVEKSLTFE--KLTAWTKPDCMKSTEVEVLLPKFKLQEDYDMESVLRHLGIVDAFQQGKADLSAMSAERDLCLSKFVHKSFVEVNEEGTEAAAASSCFVVAECCMESGPRFCADHPFLFFIRHNRANSILFCGRFSSP</Hsp_hseq>
+      <Hsp_midline>+I++LL  SS D +T LVLVNAIYFKG W   F+   TREMPF + ++E +PVQMM    +F +A +   + ++LELP+A  +      LPD+  +L  +EK++ F+  KLT WT P+ M+   V+V LP+ K++E Y++ SVL  LG+ D F    A+L+ +S+   L +S+ VH +F+E++E+G E A ++      +   ES  +F ADHPFLF I+HN  N+I++ GR+ SP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|767998836|ref|XP_011524330.1|</Hit_id>
+  <Hit_def>PREDICTED: serpin B10 isoform X3 [Homo sapiens]</Hit_def>
+  <Hit_accession>XP_011524330</Hit_accession>
+  <Hit_len>268</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>189.119</Hsp_bit-score>
+      <Hsp_score>479</Hsp_score>
+      <Hsp_evalue>4.22481e-59</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>228</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>268</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>151</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>235</Hsp_align-len>
+      <Hsp_qseq>QIKDLLVSSSTDLDTTLVLVNAIYFKGMWKTAFNAEDTREMPFHVTKQESKPVQMMCMNNSFNVATLPAEKMKILELPFASGDL------PDEVSDLERIEKTINFKKLKLTEWTNPNTMEKRRVKVYLPQMKIEEKYNLTSVLMALGMTDLFIPS-ANLTGISSAESLKISQAVHGAFMELSEDGIEMAGSTGVIEDIKHSPESEQFRADHPFLFLIKHNPTNTIVYFGRYWSP</Hsp_qseq>
+      <Hsp_hseq>KIQNLLPDDSVDSTTRMILVNALYFKGIWEHQFLVQNTTEKPFRINETTSKPVQMMFMKKKLHIFHIEKPKAVGLQLYYKSRDLSLLILLPEDINGLEQLEKAITYEKL--NEWTSADMMELYEVQLHLPKFKLEDSYDLKSTLSSMGMSDAFSQSKADFSGMSSARNLFLSNVFHKAFVEINEQGTEAAAGSGSEIDIRIRVPSIEFNANHPFLFFIRHNKTNTILFYGRLCSP</Hsp_hseq>
+      <Hsp_midline>+I++LL   S D  T ++LVNA+YFKG+W+  F  ++T E PF + +  SKPVQMM M    ++  +   K   L+L + S DL      P++++ LE++EK I ++KL   EWT+ + ME   V+++LP+ K+E+ Y+L S L ++GM+D F  S A+ +G+SSA +L +S   H AF+E++E G E A  +G   DI+    S +F A+HPFLF I+HN TNTI+++GR  SP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|4758906|ref|NP_004146.1|</Hit_id>
+  <Hit_def>serpin B9 [Homo sapiens] &gt;gi|530382158|ref|XP_005249241.1| PREDICTED: serpin B9 isoform X1 [Homo sapiens]</Hit_def>
+  <Hit_accession>NP_004146</Hit_accession>
+  <Hit_len>376</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>191.045</Hsp_bit-score>
+      <Hsp_score>484</Hsp_score>
+      <Hsp_evalue>1.20461e-58</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>228</Hsp_query-to>
+      <Hsp_hit-from>143</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>151</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>QIKDLLVSSSTDLDTTLVLVNAIYFKGMWKTAFNAEDTREMPFHVTKQESKPVQMMCMNNSFNVATLPAEKMKILELPFASGD------LPDEVSDLERIEKTINFKKLKLTEWTNPNTMEKRRVKVYLPQMKIEEKYNLTSVLMALGMTDLFIPS-ANLTGISSAESLKISQAVHGAFMELSEDGIEMAGSTGVIEDIKHSPESE-QFRADHPFLFLIKHNPTNTIVYFGRYWSP</Hsp_qseq>
+      <Hsp_hseq>KIEELLPGSSIDAETRLVLVNAIYFKGKWNEPFDETYTREMPFKINQEEQRPVQMMYQEATFKLAHVGEVRAQLLELPYARKELSLLVLLPDDGVELSTVEKSLTFE--KLTAWTKPDCMKSTEVEVLLPKFKLQEDYDMESVLRHLGIVDAFQQGKADLSAMSAERDLCLSKFVHKSFVEVNEEGTEAAAASSCFVVAECCMESGPRFCADHPFLFFIRHNRANSILFCGRFSSP</Hsp_hseq>
+      <Hsp_midline>+I++LL  SS D +T LVLVNAIYFKG W   F+   TREMPF + ++E +PVQMM    +F +A +   + ++LELP+A  +      LPD+  +L  +EK++ F+  KLT WT P+ M+   V+V LP+ K++E Y++ SVL  LG+ D F    A+L+ +S+   L +S+ VH +F+E++E+G E A ++      +   ES  +F ADHPFLF I+HN  N+I++ GR+ SP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|4826902|ref|NP_005015.1|</Hit_id>
+  <Hit_def>serpin B10 [Homo sapiens] &gt;gi|767998834|ref|XP_011524329.1| PREDICTED: serpin B10 isoform X1 [Homo sapiens]</Hit_def>
+  <Hit_accession>NP_005015</Hit_accession>
+  <Hit_len>397</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>189.504</Hsp_bit-score>
+      <Hsp_score>480</Hsp_score>
+      <Hsp_evalue>7.36295e-58</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>228</Hsp_query-to>
+      <Hsp_hit-from>165</Hsp_hit-from>
+      <Hsp_hit-to>397</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>151</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>235</Hsp_align-len>
+      <Hsp_qseq>QIKDLLVSSSTDLDTTLVLVNAIYFKGMWKTAFNAEDTREMPFHVTKQESKPVQMMCMNNSFNVATLPAEKMKILELPFASGDL------PDEVSDLERIEKTINFKKLKLTEWTNPNTMEKRRVKVYLPQMKIEEKYNLTSVLMALGMTDLFIPS-ANLTGISSAESLKISQAVHGAFMELSEDGIEMAGSTGVIEDIKHSPESEQFRADHPFLFLIKHNPTNTIVYFGRYWSP</Hsp_qseq>
+      <Hsp_hseq>KIQNLLPDDSVDSTTRMILVNALYFKGIWEHQFLVQNTTEKPFRINETTSKPVQMMFMKKKLHIFHIEKPKAVGLQLYYKSRDLSLLILLPEDINGLEQLEKAITYEKL--NEWTSADMMELYEVQLHLPKFKLEDSYDLKSTLSSMGMSDAFSQSKADFSGMSSARNLFLSNVFHKAFVEINEQGTEAAAGSGSEIDIRIRVPSIEFNANHPFLFFIRHNKTNTILFYGRLCSP</Hsp_hseq>
+      <Hsp_midline>+I++LL   S D  T ++LVNA+YFKG+W+  F  ++T E PF + +  SKPVQMM M    ++  +   K   L+L + S DL      P++++ LE++EK I ++KL   EWT+ + ME   V+++LP+ K+E+ Y+L S L ++GM+D F  S A+ +G+SSA +L +S   H AF+E++E G E A  +G   DI+    S +F A+HPFLF I+HN TNTI+++GR  SP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|530414218|ref|XP_005266764.1|</Hit_id>
+  <Hit_def>PREDICTED: serpin B13 isoform X2 [Homo sapiens]</Hit_def>
+  <Hit_accession>XP_005266764</Hit_accession>
+  <Hit_len>255</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>182.956</Hsp_bit-score>
+      <Hsp_score>463</Hsp_score>
+      <Hsp_evalue>5.6638e-57</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>228</Hsp_query-to>
+      <Hsp_hit-from>23</Hsp_hit-from>
+      <Hsp_hit-to>255</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>94</Hsp_identity>
+      <Hsp_positive>145</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>235</Hsp_align-len>
+      <Hsp_qseq>QIKDLLVSSSTDLDTTLVLVNAIYFKGMWKTAFNAEDTREMPFHVTKQESKPVQMMCMNNSFNVATLPAEKMKILELPFASGD------LPDEVSDLERIEKTINFKKLKLTEWTNPNTMEKRRVKVYLPQMKIEEKYNLTSVLMALGMTDLFIP-SANLTGISSAESLKISQAVHGAFMELSEDGIEMAGSTGVIEDIKHSPESEQFRADHPFLFLIKHNPTNTIVYFGRYWSP</Hsp_qseq>
+      <Hsp_hseq>KIKDLFPDGSISSSTKLVLVNMVYFKGQWDREFKKENTKEEKFWMNKSTSKSVQMMTQSHSFSFTFLEDLQAKILGIPYKNNDLSMFVLLPNDIDGLEKIIDKISPE--KLVEWTSPGHMEERKVNLHLPRFEVEDGYDLEAVLAAMGMGDAFSEHKADYSGMSSGSGLYAQKFLHSSFVAVTEEGTEAAAATGIGFTVTSAPGHENVHCNHPFLFFIRHNESNSILFFGRFSSP</Hsp_hseq>
+      <Hsp_midline>+IKDL    S    T LVLVN +YFKG W   F  E+T+E  F + K  SK VQMM  ++SF+   L   + KIL +P+ + D      LP+++  LE+I   I+ +  KL EWT+P  ME+R+V ++LP+ ++E+ Y+L +VL A+GM D F    A+ +G+SS   L   + +H +F+ ++E+G E A +TG+   +  +P  E    +HPFLF I+HN +N+I++FGR+ SP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|767998839|ref|XP_011524331.1|</Hit_id>
+  <Hit_def>PREDICTED: serpin B13 isoform X1 [Homo sapiens]</Hit_def>
+  <Hit_accession>XP_011524331</Hit_accession>
+  <Hit_len>390</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>184.111</Hsp_bit-score>
+      <Hsp_score>466</Hsp_score>
+      <Hsp_evalue>8.06679e-56</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>228</Hsp_query-to>
+      <Hsp_hit-from>158</Hsp_hit-from>
+      <Hsp_hit-to>390</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>94</Hsp_identity>
+      <Hsp_positive>145</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>235</Hsp_align-len>
+      <Hsp_qseq>QIKDLLVSSSTDLDTTLVLVNAIYFKGMWKTAFNAEDTREMPFHVTKQESKPVQMMCMNNSFNVATLPAEKMKILELPFASGD------LPDEVSDLERIEKTINFKKLKLTEWTNPNTMEKRRVKVYLPQMKIEEKYNLTSVLMALGMTDLFIP-SANLTGISSAESLKISQAVHGAFMELSEDGIEMAGSTGVIEDIKHSPESEQFRADHPFLFLIKHNPTNTIVYFGRYWSP</Hsp_qseq>
+      <Hsp_hseq>KIKDLFPDGSISSSTKLVLVNMVYFKGQWDREFKKENTKEEKFWMNKSTSKSVQMMTQSHSFSFTFLEDLQAKILGIPYKNNDLSMFVLLPNDIDGLEKIIDKISPE--KLVEWTSPGHMEERKVNLHLPRFEVEDGYDLEAVLAAMGMGDAFSEHKADYSGMSSGSGLYAQKFLHSSFVAVTEEGTEAAAATGIGFTVTSAPGHENVHCNHPFLFFIRHNESNSILFFGRFSSP</Hsp_hseq>
+      <Hsp_midline>+IKDL    S    T LVLVN +YFKG W   F  E+T+E  F + K  SK VQMM  ++SF+   L   + KIL +P+ + D      LP+++  LE+I   I+ +  KL EWT+P  ME+R+V ++LP+ ++E+ Y+L +VL A+GM D F    A+ +G+SS   L   + +H +F+ ++E+G E A +TG+   +  +P  E    +HPFLF I+HN +N+I++FGR+ SP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|8393956|ref|NP_036529.1|</Hit_id>
+  <Hit_def>serpin B13 isoform 2 [Homo sapiens]</Hit_def>
+  <Hit_accession>NP_036529</Hit_accession>
+  <Hit_len>391</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>184.111</Hsp_bit-score>
+      <Hsp_score>466</Hsp_score>
+      <Hsp_evalue>8.3526e-56</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>228</Hsp_query-to>
+      <Hsp_hit-from>159</Hsp_hit-from>
+      <Hsp_hit-to>391</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>94</Hsp_identity>
+      <Hsp_positive>145</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>235</Hsp_align-len>
+      <Hsp_qseq>QIKDLLVSSSTDLDTTLVLVNAIYFKGMWKTAFNAEDTREMPFHVTKQESKPVQMMCMNNSFNVATLPAEKMKILELPFASGD------LPDEVSDLERIEKTINFKKLKLTEWTNPNTMEKRRVKVYLPQMKIEEKYNLTSVLMALGMTDLFIP-SANLTGISSAESLKISQAVHGAFMELSEDGIEMAGSTGVIEDIKHSPESEQFRADHPFLFLIKHNPTNTIVYFGRYWSP</Hsp_qseq>
+      <Hsp_hseq>KIKDLFPDGSISSSTKLVLVNMVYFKGQWDREFKKENTKEEKFWMNKSTSKSVQMMTQSHSFSFTFLEDLQAKILGIPYKNNDLSMFVLLPNDIDGLEKIIDKISPE--KLVEWTSPGHMEERKVNLHLPRFEVEDGYDLEAVLAAMGMGDAFSEHKADYSGMSSGSGLYAQKFLHSSFVAVTEEGTEAAAATGIGFTVTSAPGHENVHCNHPFLFFIRHNESNSILFFGRFSSP</Hsp_hseq>
+      <Hsp_midline>+IKDL    S    T LVLVN +YFKG W   F  E+T+E  F + K  SK VQMM  ++SF+   L   + KIL +P+ + D      LP+++  LE+I   I+ +  KL EWT+P  ME+R+V ++LP+ ++E+ Y+L +VL A+GM D F    A+ +G+SS   L   + +H +F+ ++E+G E A +TG+   +  +P  E    +HPFLF I+HN +N+I++FGR+ SP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|4505595|ref|NP_002566.1|</Hit_id>
+  <Hit_def>plasminogen activator inhibitor 2 [Homo sapiens] &gt;gi|219689110|ref|NP_001137290.1| plasminogen activator inhibitor 2 [Homo sapiens]</Hit_def>
+  <Hit_accession>NP_002566</Hit_accession>
+  <Hit_len>415</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>184.882</Hsp_bit-score>
+      <Hsp_score>468</Hsp_score>
+      <Hsp_evalue>8.71113e-56</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>228</Hsp_query-to>
+      <Hsp_hit-from>180</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>102</Hsp_identity>
+      <Hsp_positive>141</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>239</Hsp_align-len>
+      <Hsp_qseq>QIKDLLVSSSTDLDTTLVLVNAIYFKGMWKTAFNAEDTREMPFHVTKQESKPVQMMCMNNSFNVATLPAEKMKILELPFASGD------LPDEVSD----LERIEKTINFKKLKLTEWTNPNTMEKRRVKVYLPQMKIEEKYNLTSVLMALGMTDLFIPS-ANLTGISSAESLKISQAVHGAFMELSEDGIEMAGSTGVIEDIKHSPESEQFRADHPFLFLIKHNPTNTIVYFGRYWSP</Hsp_qseq>
+      <Hsp_hseq>KIPNLLPEGSVDGDTRMVLVNAVYFKGKWKTPFEKKLNGLYPFRVNSAQRTPVQMMYLREKLNIGYIEDLKAQILELPYA-GDVSMFLLLPDEIADVSTGLELLESEITYD--KLNKWTSKDKMAEDEVEVYIPQFKLEEHYELRSILRSMGMEDAFNKGRANFSGMSERNDLFLSEVFHQAMVDVNEEGTEAAAGTGGVMTGRTGHGGPQFVADHPFLFLIMHKITNCILFFGRFSSP</Hsp_hseq>
+      <Hsp_midline>+I +LL   S D DT +VLVNA+YFKG WKT F  +     PF V   +  PVQMM +    N+  +   K +ILELP+A GD      LPDE++D    LE +E  I +   KL +WT+ + M +  V+VY+PQ K+EE Y L S+L ++GM D F    AN +G+S    L +S+  H A ++++E+G E A  TG +   +      QF ADHPFLFLI H  TN I++FGR+ SP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|807201021|ref|NP_001294852.1|</Hit_id>
+  <Hit_def>serpin B13 isoform 1 [Homo sapiens]</Hit_def>
+  <Hit_accession>NP_001294852</Hit_accession>
+  <Hit_len>400</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>184.111</Hsp_bit-score>
+      <Hsp_score>466</Hsp_score>
+      <Hsp_evalue>1.01368e-55</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>228</Hsp_query-to>
+      <Hsp_hit-from>168</Hsp_hit-from>
+      <Hsp_hit-to>400</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>94</Hsp_identity>
+      <Hsp_positive>145</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>235</Hsp_align-len>
+      <Hsp_qseq>QIKDLLVSSSTDLDTTLVLVNAIYFKGMWKTAFNAEDTREMPFHVTKQESKPVQMMCMNNSFNVATLPAEKMKILELPFASGD------LPDEVSDLERIEKTINFKKLKLTEWTNPNTMEKRRVKVYLPQMKIEEKYNLTSVLMALGMTDLFIP-SANLTGISSAESLKISQAVHGAFMELSEDGIEMAGSTGVIEDIKHSPESEQFRADHPFLFLIKHNPTNTIVYFGRYWSP</Hsp_qseq>
+      <Hsp_hseq>KIKDLFPDGSISSSTKLVLVNMVYFKGQWDREFKKENTKEEKFWMNKSTSKSVQMMTQSHSFSFTFLEDLQAKILGIPYKNNDLSMFVLLPNDIDGLEKIIDKISPE--KLVEWTSPGHMEERKVNLHLPRFEVEDGYDLEAVLAAMGMGDAFSEHKADYSGMSSGSGLYAQKFLHSSFVAVTEEGTEAAAATGIGFTVTSAPGHENVHCNHPFLFFIRHNESNSILFFGRFSSP</Hsp_hseq>
+      <Hsp_midline>+IKDL    S    T LVLVN +YFKG W   F  E+T+E  F + K  SK VQMM  ++SF+   L   + KIL +P+ + D      LP+++  LE+I   I+ +  KL EWT+P  ME+R+V ++LP+ ++E+ Y+L +VL A+GM D F    A+ +G+SS   L   + +H +F+ ++E+G E A +TG+   +  +P  E    +HPFLF I+HN +N+I++FGR+ SP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|156071456|ref|NP_536723.2|</Hit_id>
+  <Hit_def>serpin B11 isoform a [Homo sapiens] &gt;gi|767999462|ref|XP_011524553.1| PREDICTED: serpin B11 isoform X1 [Homo sapiens]</Hit_def>
+  <Hit_accession>NP_536723</Hit_accession>
+  <Hit_len>392</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>179.104</Hsp_bit-score>
+      <Hsp_score>453</Hsp_score>
+      <Hsp_evalue>8.17666e-54</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>228</Hsp_query-to>
+      <Hsp_hit-from>160</Hsp_hit-from>
+      <Hsp_hit-to>392</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>151</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>235</Hsp_align-len>
+      <Hsp_qseq>QIKDLLVSSSTDLDTTLVLVNAIYFKGMWKTAFNAEDTREMPFHVTKQESKPVQMMCMNNSFNVATLPAEKMKILELPFASGDL------PDEVSDLERIEKTINFKKLKLTEWTNPNTMEKRRVKVYLPQMKIEEKYNLTSVLMALGMTDLFIP-SANLTGISSAESLKISQAVHGAFMELSEDGIEMAGSTGVIEDIKHSPESEQFRADHPFLFLIKHNPTNTIVYFGRYWSP</Hsp_qseq>
+      <Hsp_hseq>KVANLFGKSTIDPSSVMVLVNAIYFKGQWQNKFQVRETVKSPFQLSEGKNVTVEMMYQIGTFKLAFVKEPQMQVLELPYVNNKLSMIILLPVGIANLKQIEKQLNSGTFH--EWTSSSNMMEREVEVHLPRFKLETKYELNSLLKSLGVTDLFNQVKADLSGMSPTKGLYLSKAIHKSYLDVSEEGTEAAAATGDSIAVKSLPMRAQFKANHPFLFFIRHTHTNTILFCGKLASP</Hsp_hseq>
+      <Hsp_midline>++ +L   S+ D  + +VLVNAIYFKG W+  F   +T + PF +++ ++  V+MM    +F +A +   +M++LELP+ +  L      P  +++L++IEK +N       EWT+ + M +R V+V+LP+ K+E KY L S+L +LG+TDLF    A+L+G+S  + L +S+A+H +++++SE+G E A +TG    +K  P   QF+A+HPFLF I+H  TNTI++ G+  SP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>80269</Statistics_db-num>
+      <Statistics_db-len>56216264</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

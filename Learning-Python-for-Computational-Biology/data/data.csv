@@ -1,0 +1,23 @@
+Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+Q8BG02	2ABG_MOUSE	reviewed	Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B gamma isoform (PP2A subunit B isoform B55-gamma) (PP2A subunit B isoform PR55-gamma) (PP2A subunit B isoform R2-gamma) (PP2A subunit B isoform gamma)	Ppp2r2c	Mus musculus (Mouse)	447
+P24815	3BHS1_MOUSE	reviewed	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1 (3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type I) (3-beta-HSD I) [Includes: 3-beta-hydroxy-Delta(5)-steroid dehydrogenase (EC 1.1.1.145) (3-beta-hydroxy-5-ene steroid dehydrogenase) (Progesterone reductase); Steroid Delta-isomerase (EC 5.3.3.1) (Delta-5-3-ketosteroid isomerase)]	Hsd3b1 Hsd3b	Mus musculus (Mouse)	373
+P55194	3BP1_MOUSE	reviewed	SH3 domain-binding protein 1 (3BP-1)	Sh3bp1 3bp1	Mus musculus (Mouse)	601
+P28334	5HT1B_MOUSE	reviewed	5-hydroxytryptamine receptor 1B (5-HT-1B) (5-HT1B) (Serotonin receptor 1B)	Htr1b 5ht1b	Mus musculus (Mouse)	386
+P35363	5HT2A_MOUSE	reviewed	5-hydroxytryptamine receptor 2A (5-HT-2) (5-HT-2A) (Serotonin receptor 2A)	Htr2a Htr2	Mus musculus (Mouse)	471
+Q02152	5HT2B_MOUSE	reviewed	5-hydroxytryptamine receptor 2B (5-HT-2B) (5-HT2B) (5-HT-2F) (NP75 protein) (Serotonin receptor 2B)	Htr2b	Mus musculus (Mouse)	479
+P23979	5HT3A_MOUSE	reviewed	5-hydroxytryptamine receptor 3A (5-HT3-A) (5-HT3A) (5-hydroxytryptamine receptor 3) (5-HT-3) (5-HT3R) (Serotonin receptor 3A) (Serotonin-gated ion channel receptor)	Htr3a 5ht3 Htr3	Mus musculus (Mouse)	487
+P97288	5HT4R_MOUSE	reviewed	5-hydroxytryptamine receptor 4 (5-HT-4) (5-HT4) (Serotonin receptor 4)	Htr4	Mus musculus (Mouse)	388
+P32304	5HT7R_MOUSE	reviewed	5-hydroxytryptamine receptor 7 (5-HT-7) (5-HT7) (5-HT-X) (Serotonin receptor 7)	Htr7	Mus musculus (Mouse)	448
+Q9DCD0	6PGD_MOUSE	reviewed	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	Pgd	Mus musculus (Mouse)	483
+Q61247	A2AP_MOUSE	reviewed	Alpha-2-antiplasmin (Alpha-2-AP) (Alpha-2-plasmin inhibitor) (Alpha-2-PI) (Serpin F2)	Serpinf2 Pli	Mus musculus (Mouse)	491
+Q9WVM8	AADAT_MOUSE	reviewed	Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial (KAT/AadAT) (2-aminoadipate aminotransferase) (2-aminoadipate transaminase) (EC 2.6.1.39) (Alpha-aminoadipate aminotransferase) (AadAT) (Kynurenine aminotransferase II) (Kynurenine--oxoglutarate aminotransferase II) (Kynurenine--oxoglutarate transaminase 2) (EC 2.6.1.7) (Kynurenine--oxoglutarate transaminase II)	Aadat Kat2	Mus musculus (Mouse)	425
+P41234	ABCA2_MOUSE	reviewed	ATP-binding cassette sub-family A member 2 (ATP-binding cassette transporter 2) (ATP-binding cassette 2)	Abca2 Abc2	Mus musculus (Mouse)	2434
+Q8R420	ABCA3_MOUSE	reviewed	ATP-binding cassette sub-family A member 3	Abca3	Mus musculus (Mouse)	1704
+Q91V24	ABCA7_MOUSE	reviewed	ATP-binding cassette sub-family A member 7	Abca7	Mus musculus (Mouse)	2159
+Q9QY30	ABCBB_MOUSE	reviewed	Bile salt export pump (ATP-binding cassette sub-family B member 11) (Sister of P-glycoprotein)	Abcb11 Bsep Spgp	Mus musculus (Mouse)	1321
+P70170	ABCC9_MOUSE	reviewed	ATP-binding cassette sub-family C member 9 (Sulfonylurea receptor 2)	Abcc9 Sur2	Mus musculus (Mouse)	1546
+Q9DBL1	ACDSB_MOUSE	reviewed	Short/branched chain specific acyl-CoA dehydrogenase, mitochondrial (SBCAD) (EC 1.3.8.5) (2-methyl branched chain acyl-CoA dehydrogenase) (2-MEBCAD) (2-methylbutyryl-coenzyme A dehydrogenase) (2-methylbutyryl-CoA dehydrogenase)	Acadsb	Mus musculus (Mouse)	432
+P49582	ACHA7_MOUSE	reviewed	Neuronal acetylcholine receptor subunit alpha-7	Chrna7 Acra7	Mus musculus (Mouse)	502
+Q8VCW8	ACSF2_MOUSE	reviewed	Acyl-CoA synthetase family member 2, mitochondrial (EC 6.2.1.-)	Acsf2	Mus musculus (Mouse)	615
+Q3UNX5	ACSM3_MOUSE	reviewed	Acyl-coenzyme A synthetase ACSM3, mitochondrial (EC 6.2.1.2) (Acyl-CoA synthetase medium-chain family member 3) (Butyrate--CoA ligase 3) (Butyryl-coenzyme A synthetase 3) (Middle-chain acyl-CoA synthetase 3) (Protein SA homolog)	Acsm3 Sa Sah	Mus musculus (Mouse)	580
+Q8VCV1	AB17C_MOUSE	reviewed	Protein ABHD17C (EC 3.-.-.-) (Alpha/beta hydrolase domain-containing protein 17C) (Abhydrolase domain-containing protein 17C)	Abhd17c	Mus musculus (Mouse)	320

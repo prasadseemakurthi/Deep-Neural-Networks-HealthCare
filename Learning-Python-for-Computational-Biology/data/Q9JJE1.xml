@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2000-10-01" modified="2017-07-05" version="101">
+<accession>Q9JJE1</accession>
+<name>Q9JJE1_MOUSE</name>
+<protein>
+<submittedName>
+<fullName evidence="4">Brain cDNA, clone MNCb-1208, similar to Mus musculus mitogen activated protein kinase kinase 1 (Map2k1), mRNA</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="5">Map2k1</name>
+</gene>
+<organism evidence="4">
+<name type="scientific">Mus musculus</name>
+<name type="common">Mouse</name>
+<dbReference type="NCBI Taxonomy" id="10090"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Glires</taxon>
+<taxon>Rodentia</taxon>
+<taxon>Myomorpha</taxon>
+<taxon>Muroidea</taxon>
+<taxon>Muridae</taxon>
+<taxon>Murinae</taxon>
+<taxon>Mus</taxon>
+<taxon>Mus</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="2000-04" db="EMBL/GenBank/DDBJ databases">
+<title>isolation of full-length cDNA clones from mouse brain cDNA library made by oligo-capping method.</title>
+<authorList>
+<person name="Osada N."/>
+<person name="Kusuda J."/>
+<person name="Tanuma R."/>
+<person name="Ito A."/>
+<person name="Hirata M."/>
+<person name="Sugano S."/>
+<person name="Hashimoto K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="4">C57BL</strain>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the protein kinase superfamily.</text>
+</comment>
+<dbReference type="EMBL" id="AB041567">
+<property type="protein sequence ID" value="BAA95051.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Mm.248907"/>
+<dbReference type="ProteinModelPortal" id="Q9JJE1"/>
+<dbReference type="IntAct" id="Q9JJE1">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-4129986"/>
+<dbReference type="PaxDb" id="Q9JJE1"/>
+<dbReference type="PRIDE" id="Q9JJE1"/>
+<dbReference type="MGI" id="MGI:1346866">
+<property type="gene designation" value="Map2k1"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG0581">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XQ5A">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG108518"/>
+<dbReference type="ChiTaRS" id="Map2k1">
+<property type="organism name" value="mouse"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="2">Coiled coil</keyword>
+<keyword id="KW-0418" evidence="1">Kinase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0723" evidence="1">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="1">Transferase</keyword>
+<feature type="domain" description="Protein kinase" evidence="3">
+<location>
+<begin position="68"/>
+<end position="361"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="23"/>
+<end position="50"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000304"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAA95051.1"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="MGI" id="MGI:1346866"/>
+</source>
+</evidence>
+<sequence length="393" mass="43375" checksum="E0C0CC2E1F189B8A" modified="2000-10-01" version="1">
+MPKKKPTPIQLNPAPDGSAVNGTSSAETNLEALQKKLEELELDEQQRKRLEAFLTQKQKV
+GELKDDDFEKISELGAGNGGVVFKVSHKPSGLVMARKLIHLEIKPAIRNQIIRELQVLHE
+CNSPYIVGFYGAFYSDGEISICMEHMDGGSLDQVLKKAGRIPEQILGKVSIAVIKGLTYL
+REKHKIMHRDVKPSNILVNSRGEIKLCDFGVSGQLIDSMANSFVGTRSYMSPERLQGTHY
+SVQSDIWSMGLSLVEMAVGRYPIPPPDAKELELLFGCHVEGDAAETPPRPRTPGGPLSSY
+GMDSRPPMAIFELLDYIVNEPPPKLPSGVFSLEFQDFVNKCLIKNPAERADLKQLMVHAF
+IKRSDAEEVDFAGWLCSTIGLNQPSTPTHAASI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>
