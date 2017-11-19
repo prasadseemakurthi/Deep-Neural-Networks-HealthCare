@@ -3,9 +3,11 @@
 ## NOTE/ANNOUNCEMENT to what we intend to do here!
 
 ---------------------------
-All this stuff is borrowed from the github, I will soon reorganize this to reflect recency (as a lot of work is happening in comp biology that CNNs are using lately -- hopefully CapsNETs too) and some easy to undrstand structure.
+All this stuff is collected from the github which was not well maintained. I will soon reorganize this to reflect recency (as a lot of work is happening in comp biology that CNNs are using lately -- hopefully CapsNETs too) and some easy to undrstand structure.
 
 Key collaborators and researchers (besides me) will be some budding computational biologists such as [Huadong Liao](https://github.com/naturomics) who did an awesome job with recent Capsule Networks and will work with me to not only do awesome projects across the globe but also work and travel with me to deliver workshops for both for and non-profit organizations.
+
+If you are a researcher, enthusiast or even someone just interested and  want to join computational biology researches with deep learning, then contact me at : tarry.singh@gmail.com
 
 So stay tuned!!!
 
@@ -14,6 +16,8 @@ Thanks,
 Tarry Singh
 
 ---------------------------
+
+<img src='images/compbio.jpg'>
 
 This is a list of implementations of deep learning methods to biology, originally published on [Follow the Data](https://followthedata.wordpress.com/). There is a slant towards genomics because that's the subfield that I follow most closely.
 
